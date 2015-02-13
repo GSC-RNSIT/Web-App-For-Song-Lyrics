@@ -1,4 +1,4 @@
-    <h1> Web App for song lyrics </h1>
+     Web App for song lyrics 
     
     Contributors : Sreevatsa Vadiraj,guided by Karthik Kannapur.
      Supporting Scripting languages: HTML,CSS,JS
